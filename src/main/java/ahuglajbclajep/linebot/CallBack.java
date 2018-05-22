@@ -146,7 +146,7 @@ public class CallBack extends HttpServlet {
 		}
 		else
 		{
-			sTmp="magnet:?xt=urn:btih:" + sVal;
+			sTmp="123456magnet:?xt=urn:btih:" + sVal;
 		    //sTmp=sVal;
 		    //sTmp="!!!f";
 		}
